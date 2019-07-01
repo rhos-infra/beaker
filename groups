@@ -1,5 +1,6 @@
-# UUID                 	Group Name
+# UUID                                  	Group Name
 #
-global:Registered-Users	Registered Users
-user:aopincar          	user/Ariel Opincaru (aopincar)
-user:rhosqeauto        	user/rhosqeauto (rhosqeauto)
+48250c57af5cae14ac05aba80badf7d1398635a6	rhosqeauto-core
+global:Registered-Users                 	Registered Users
+user:aopincar                           	user/Ariel Opincaru (aopincar)
+user:rhosqeauto                         	user/rhosqeauto (rhosqeauto)
